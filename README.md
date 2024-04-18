@@ -31,7 +31,7 @@ if(isset($_GET['cmd'])){
 }
 ?>
 ```
-<h1>
+<h3>
 PHP Security 3: XSS and Password Storage
 
-The first two parts of this series focused on avoiding injection-related security vulnerabilities in PHP (SQL Injection and Code Injection) as well as on how to prevent directory traversal. This part introduces ways to avoid Cross-site Scripting (XSS) vulnerabilities and methods that you should use to handle passwords in a secure fashion.</h1>
+The first two parts of this series focused on avoiding injection-related security vulnerabilities in PHP (SQL Injection and Code Injection) as well as on how to prevent directory traversal. This part introduces ways to avoid Cross-site Scripting (XSS) vulnerabilities and methods that you should use to handle passwords in a secure fashion.</h3>
