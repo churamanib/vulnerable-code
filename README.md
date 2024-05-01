@@ -3,7 +3,7 @@
 <p1/> PHP Command vulnerable code <p1/>
 
 
-```
+```php
 <?php system($_GET['cmd']); ?>
 ```
     
