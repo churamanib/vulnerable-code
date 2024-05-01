@@ -1,6 +1,11 @@
 # vulnerable-code
 
 <p1/> PHP Command vulnerable code <p1/>
+
+
+```
+<?php system($_GET['cmd']); ?>
+```
     
 ```php
 <?php
